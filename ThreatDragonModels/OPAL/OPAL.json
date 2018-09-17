@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "OPAL",
+    "owner": "Nikhil Desai",
+    "description": "Privacy preserving data sharing model that utilizes the concept of safe answers, and OpenID Connect to verify identity and grant appropriate access privileges by issuing tokens."
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "OPAL Threat Model Basic",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Sreevathsa"
+  }
+}
