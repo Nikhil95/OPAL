@@ -725,7 +725,7 @@
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "flow 23",
+                      "text": "Query",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -761,7 +761,7 @@
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "flow 24",
+                      "text": "Data",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -797,7 +797,7 @@
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "flow 25",
+                      "text": "Query",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -833,7 +833,7 @@
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "flow 26",
+                      "text": "Data",
                       "font-weight": "400",
                       "font-size": "small"
                     }
