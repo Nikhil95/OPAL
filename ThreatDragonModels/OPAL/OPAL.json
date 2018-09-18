@@ -884,6 +884,22 @@
               "id": "695a2349-2b69-412f-b5cb-ff12df5f60b4",
               "z": 30,
               "attrs": {}
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 633,
+                "y": 403
+              },
+              "target": {
+                "x": 866,
+                "y": 335
+              },
+              "vertices": [],
+              "id": "b6840217-59c7-4213-a80f-5f3853fc8c84",
+              "z": 31,
+              "attrs": {}
             }
           ]
         },
