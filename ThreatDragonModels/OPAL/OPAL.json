@@ -852,6 +852,38 @@
                   "class": "connection hasNoOpenThreats isInScope"
                 }
               }
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 215,
+                "y": 143
+              },
+              "target": {
+                "x": 283,
+                "y": 322
+              },
+              "vertices": [],
+              "id": "291d2867-a551-401c-a7ef-ea24499cb0dd",
+              "z": 29,
+              "attrs": {}
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 691,
+                "y": 200
+              },
+              "target": {
+                "x": 684,
+                "y": 75
+              },
+              "vertices": [],
+              "id": "695a2349-2b69-412f-b5cb-ff12df5f60b4",
+              "z": 30,
+              "attrs": {}
             }
           ]
         },
