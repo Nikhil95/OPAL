@@ -577,7 +577,7 @@
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "flow 19",
+                      "text": "API calls/local\nalgorithm execution",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -586,6 +586,7 @@
               ],
               "z": 21,
               "hasOpenThreats": false,
+              "isEncrypted": true,
               "attrs": {
                 ".marker-target": {
                   "class": "marker-target hasNoOpenThreats isInScope"
@@ -613,7 +614,7 @@
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "flow 20",
+                      "text": "safe answers",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -622,6 +623,7 @@
               ],
               "z": 22,
               "hasOpenThreats": false,
+              "isEncrypted": true,
               "attrs": {
                 ".marker-target": {
                   "class": "marker-target hasNoOpenThreats isInScope"
