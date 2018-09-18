@@ -215,7 +215,7 @@
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "flow 8",
+                      "text": "Request to execute an\nopen algorithm",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -251,7 +251,7 @@
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "flow 9",
+                      "text": "Aggregated safe\nanswers",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -287,7 +287,7 @@
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "flow 11",
+                      "text": "Authentication",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -296,6 +296,7 @@
               ],
               "z": 13,
               "hasOpenThreats": false,
+              "isEncrypted": true,
               "attrs": {
                 ".marker-target": {
                   "class": "marker-target hasNoOpenThreats isInScope"
@@ -323,7 +324,7 @@
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "flow 12",
+                      "text": "Access and ID tokens",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -332,6 +333,7 @@
               ],
               "z": 14,
               "hasOpenThreats": false,
+              "isEncrypted": true,
               "attrs": {
                 ".marker-target": {
                   "class": "marker-target hasNoOpenThreats isInScope"
@@ -359,7 +361,7 @@
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "flow 13",
+                      "text": "Token Introspection",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -395,7 +397,7 @@
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "flow 14",
+                      "text": "Intended Scopes",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -431,7 +433,7 @@
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "flow 15",
+                      "text": "API Calls/local\nalgorithm execution",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -466,7 +468,7 @@
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "flow 16",
+                      "text": "Safe answers",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -502,7 +504,7 @@
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "flow 17",
+                      "text": "Token Introspection",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -538,7 +540,7 @@
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "flow 18",
+                      "text": "Intended scopes",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -680,7 +682,7 @@
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "flow 22",
+                      "text": "Token Introspection",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -689,6 +691,7 @@
               ],
               "z": 24,
               "hasOpenThreats": false,
+              "isEncrypted": true,
               "attrs": {
                 ".marker-target": {
                   "class": "marker-target hasNoOpenThreats isInScope"
