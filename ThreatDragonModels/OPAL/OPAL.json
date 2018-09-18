@@ -80,16 +80,26 @@
               "angle": 0,
               "id": "c97c7028-1401-4f6c-844a-66f2f2cbc49e",
               "z": 5,
-              "hasOpenThreats": false,
+              "hasOpenThreats": true,
+              "threats": [
+                {
+                  "status": "Open",
+                  "severity": "Medium",
+                  "title": "Elevation of privilege at Opal Gateway node",
+                  "type": "Elevation of privilege",
+                  "description": "All registered users can execute an algorithm that's present, irrespective of the permissions based on his subscription or profile.",
+                  "mitigation": "A rigorous introspection in place to check for profile claims as well as sub claims before letting them execute an algorithm."
+                }
+              ],
               "attrs": {
                 ".element-shape": {
-                  "class": "element-shape hasNoOpenThreats isInScope"
+                  "class": "element-shape hasOpenThreats isInScope"
                 },
                 "text": {
                   "text": "Opal Federation Gateway"
                 },
                 ".element-text": {
-                  "class": "element-text hasNoOpenThreats isInScope"
+                  "class": "element-text hasOpenThreats isInScope"
                 }
               }
             },
