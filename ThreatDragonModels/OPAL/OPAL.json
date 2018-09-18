@@ -89,6 +89,14 @@
                   "type": "Elevation of privilege",
                   "description": "All registered users can execute an algorithm that's present, irrespective of the permissions based on his subscription or profile.",
                   "mitigation": "A rigorous introspection in place to check for profile claims as well as sub claims before letting them execute an algorithm."
+                },
+                {
+                  "status": "Open",
+                  "severity": "Medium",
+                  "title": "Client Spoofing",
+                  "type": "Information disclosure",
+                  "description": "The credentials of the client application which acts as an interface between the client as well as Opal Gateway is not being verified. Any client app that can provide the utility of sign in for the user and connect to and call the Opal Gateway node's API can get hold of the aggregated safe answers.",
+                  "mitigation": "Trust must be established between the client application and  Opal gateway node and the interaction must be secured. This could be achieved by registering the client app and starting the interaction by sharing the client id."
                 }
               ],
               "attrs": {
