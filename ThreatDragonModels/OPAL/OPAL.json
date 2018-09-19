@@ -325,7 +325,7 @@
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "Authentication",
+                      "text": "Access and ID tokens",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -362,7 +362,7 @@
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "Access and ID tokens",
+                      "text": "Authentication",
                       "font-weight": "400",
                       "font-size": "small"
                     }
